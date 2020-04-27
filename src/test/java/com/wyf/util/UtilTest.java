@@ -11,7 +11,10 @@ import java.util.Date;
 
 import org.junit.Test;
 
-import com.wyf.domain.TPSService;
+import com.wyf.common.domain.TPSService;
+import com.wyf.common.utils.DateUtil;
+import com.wyf.common.utils.RandNumUtil;
+import com.wyf.common.utils.ZHStringUtil;
 
 public class UtilTest {
 

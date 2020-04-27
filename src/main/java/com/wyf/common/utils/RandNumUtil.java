@@ -1,4 +1,4 @@
-package com.wyf.util;
+package com.wyf.common.utils;
 
 import java.math.BigDecimal;
 import java.util.Random;

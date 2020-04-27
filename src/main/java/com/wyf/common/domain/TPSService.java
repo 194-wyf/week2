@@ -1,4 +1,4 @@
-package com.wyf.domain;
+package com.wyf.common.domain;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;

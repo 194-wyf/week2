@@ -1,4 +1,4 @@
-package com.wyf.util;
+package com.wyf.common.utils;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Random;
